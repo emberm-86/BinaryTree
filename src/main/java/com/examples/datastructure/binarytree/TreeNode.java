@@ -1,11 +1,10 @@
 package com.examples.datastructure.binarytree;
 
 /**
- * TreeNode: Node element definition.
+ * TreeNode: node element definition.
  *
  * @author Matyas Ember
  */
-
 public class TreeNode<T extends Comparable<T>>
         implements Comparable<TreeNode<T>> {
 

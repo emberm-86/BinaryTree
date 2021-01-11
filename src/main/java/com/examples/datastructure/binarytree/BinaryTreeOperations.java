@@ -20,7 +20,6 @@ import java.util.List;
  *
  * @author Matyas Ember
  */
-
 public class BinaryTreeOperations {
 
     public static void main(String[] args) {

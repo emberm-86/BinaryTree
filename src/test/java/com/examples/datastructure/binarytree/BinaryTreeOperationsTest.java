@@ -4,6 +4,11 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
+/**
+ * Test class.
+ *
+ * @author Matyas Ember
+ */
 public class BinaryTreeOperationsTest {
 
     private TreeNode<Integer> s1;
